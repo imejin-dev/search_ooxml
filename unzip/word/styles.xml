@@ -167,6 +167,43 @@
             <w:jc w:val="both"/>
         </w:pPr>
     </w:style>
+    <w:style w:type="paragraph" w:styleId="1">
+        <w:name w:val="heading 1"/>
+        <w:basedOn w:val="a"/>
+        <w:next w:val="a"/>
+        <w:link w:val="10"/>
+        <w:uiPriority w:val="9"/>
+        <w:qFormat/>
+        <w:rsid w:val="00001FA6"/>
+        <w:pPr>
+            <w:keepNext/>
+            <w:outlineLvl w:val="0"/>
+        </w:pPr>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi"
+                      w:cstheme="majorBidi"/>
+            <w:sz w:val="28"/>
+            <w:szCs w:val="28"/>
+        </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="2">
+        <w:name w:val="heading 2"/>
+        <w:basedOn w:val="a"/>
+        <w:next w:val="a"/>
+        <w:link w:val="20"/>
+        <w:uiPriority w:val="9"/>
+        <w:unhideWhenUsed/>
+        <w:qFormat/>
+        <w:rsid w:val="00001FA6"/>
+        <w:pPr>
+            <w:keepNext/>
+            <w:outlineLvl w:val="1"/>
+        </w:pPr>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi"
+                      w:cstheme="majorBidi"/>
+        </w:rPr>
+    </w:style>
     <w:style w:type="character" w:default="1" w:styleId="a0">
         <w:name w:val="Default Paragraph Font"/>
         <w:uiPriority w:val="1"/>
@@ -223,6 +260,30 @@
             <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsia="ＭＳ ゴシック" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
             <w:sz w:val="32"/>
             <w:szCs w:val="32"/>
+        </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:customStyle="1" w:styleId="10">
+        <w:name w:val="見出し 1 (文字)"/>
+        <w:basedOn w:val="a0"/>
+        <w:link w:val="1"/>
+        <w:uiPriority w:val="9"/>
+        <w:rsid w:val="00001FA6"/>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi"
+                      w:cstheme="majorBidi"/>
+            <w:sz w:val="28"/>
+            <w:szCs w:val="28"/>
+        </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:customStyle="1" w:styleId="20">
+        <w:name w:val="見出し 2 (文字)"/>
+        <w:basedOn w:val="a0"/>
+        <w:link w:val="2"/>
+        <w:uiPriority w:val="9"/>
+        <w:rsid w:val="00001FA6"/>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi"
+                      w:cstheme="majorBidi"/>
         </w:rPr>
     </w:style>
 </w:styles>

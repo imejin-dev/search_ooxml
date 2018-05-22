@@ -23,12 +23,42 @@
                     <w:rFonts w:hint="eastAsia"/>
                 </w:rPr>
             </w:pPr>
-            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
             <w:r>
                 <w:rPr>
                     <w:rFonts w:hint="eastAsia"/>
                 </w:rPr>
                 <w:t>表題</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="647A1CB1" w14:textId="3F824EDF" w:rsidR="00001FA6" w:rsidRDefault="00001FA6"
+             w:rsidP="00001FA6">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>見出し１</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="051891DD" w14:textId="1A1D7129" w:rsidR="00001FA6" w:rsidRDefault="00001FA6"
+             w:rsidP="00001FA6">
+            <w:pPr>
+                <w:pStyle w:val="2"/>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>見出し２</w:t>
             </w:r>
         </w:p>
         <w:bookmarkEnd w:id="0"/>
