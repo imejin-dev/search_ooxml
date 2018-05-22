@@ -286,4 +286,14 @@
                       w:cstheme="majorBidi"/>
         </w:rPr>
     </w:style>
+    <w:style w:type="paragraph" w:styleId="a5">
+        <w:name w:val="No Spacing"/>
+        <w:uiPriority w:val="1"/>
+        <w:qFormat/>
+        <w:rsid w:val="00362F89"/>
+        <w:pPr>
+            <w:widowControl w:val="0"/>
+            <w:jc w:val="both"/>
+        </w:pPr>
+    </w:style>
 </w:styles>
