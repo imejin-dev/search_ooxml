@@ -330,4 +330,31 @@
             </w:tblCellMar>
         </w:tblPr>
     </w:style>
+    <w:style w:type="paragraph" w:styleId="a7">
+        <w:name w:val="Balloon Text"/>
+        <w:basedOn w:val="a"/>
+        <w:link w:val="a8"/>
+        <w:uiPriority w:val="99"/>
+        <w:semiHidden/>
+        <w:unhideWhenUsed/>
+        <w:rsid w:val="003458D6"/>
+        <w:rPr>
+            <w:rFonts w:ascii="ヒラギノ角ゴ ProN W3" w:eastAsia="ヒラギノ角ゴ ProN W3"/>
+            <w:sz w:val="18"/>
+            <w:szCs w:val="18"/>
+        </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:customStyle="1" w:styleId="a8">
+        <w:name w:val="吹き出し (文字)"/>
+        <w:basedOn w:val="a0"/>
+        <w:link w:val="a7"/>
+        <w:uiPriority w:val="99"/>
+        <w:semiHidden/>
+        <w:rsid w:val="003458D6"/>
+        <w:rPr>
+            <w:rFonts w:ascii="ヒラギノ角ゴ ProN W3" w:eastAsia="ヒラギノ角ゴ ProN W3"/>
+            <w:sz w:val="18"/>
+            <w:szCs w:val="18"/>
+        </w:rPr>
+    </w:style>
 </w:styles>

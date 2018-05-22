@@ -43,4 +43,12 @@
         <w:sig w:usb0="E00002FF" w:usb1="6AC7FDFB" w:usb2="00000012" w:usb3="00000000" w:csb0="0002009F"
                w:csb1="00000000"/>
     </w:font>
+    <w:font w:name="ヒラギノ角ゴ ProN W3">
+        <w:panose1 w:val="020B0300000000000000"/>
+        <w:charset w:val="4E"/>
+        <w:family w:val="auto"/>
+        <w:pitch w:val="variable"/>
+        <w:sig w:usb0="E00002FF" w:usb1="7AC7FFFF" w:usb2="00000012" w:usb3="00000000" w:csb0="0002000D"
+               w:csb1="00000000"/>
+    </w:font>
 </w:fonts>

@@ -81,13 +81,7 @@
             </w:r>
         </w:p>
         <w:p w14:paraId="74522F44" w14:textId="72FB40FD" w:rsidR="00C5554D" w:rsidRDefault="00C5554D"
-             w:rsidP="00362F89">
-            <w:pPr>
-                <w:rPr>
-                    <w:rFonts w:hint="eastAsia"/>
-                </w:rPr>
-            </w:pPr>
-        </w:p>
+             w:rsidP="00362F89"/>
         <w:tbl>
             <w:tblPr>
                 <w:tblStyle w:val="a6"/>
@@ -256,10 +250,139 @@
         </w:p>
         <w:p w14:paraId="246C466A" w14:textId="249DA192" w:rsidR="00005746" w:rsidRDefault="00005746"
              w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="0F69F7D8" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="6F55CA05" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="493416A1" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="6E54FF38" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="4DCFF44A" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="3DDB98EB" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="2C8647A3" w14:textId="77777777" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="36771101" w14:textId="3A6B85A2" w:rsidR="003458D6" w:rsidRDefault="003458D6"
+             w:rsidP="00362F89">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:noProof/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:drawing>
+                    <wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="383E4566" wp14:editId="0A42A974">
+                        <wp:extent cx="4876800" cy="3238500"/>
+                        <wp:effectExtent l="0" t="0" r="0" b="12700"/>
+                        <wp:docPr id="2" name="図 2"
+                                  descr="Macintosh HD:Users:nature-cue:Desktop:037ELLY18420_TP_V.jpg"/>
+                        <wp:cNvGraphicFramePr>
+                            <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                 noChangeAspect="1"/>
+                        </wp:cNvGraphicFramePr>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 1"
+                                                   descr="Macintosh HD:Users:nature-cue:Desktop:037ELLY18420_TP_V.jpg"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId6">
+                                            <a:extLst>
+                                                <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                    <a14:useLocalDpi
+                                                            xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                                            val="0"/>
+                                                </a:ext>
+                                            </a:extLst>
+                                        </a:blip>
+                                        <a:srcRect/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr bwMode="auto">
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="4876800" cy="3238500"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                        <a:noFill/>
+                                        <a:ln>
+                                            <a:noFill/>
+                                        </a:ln>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
             <w:bookmarkStart w:id="0" w:name="_GoBack"/>
             <w:bookmarkEnd w:id="0"/>
         </w:p>
-        <w:sectPr w:rsidR="00005746" w:rsidSect="00C5554D">
+        <w:sectPr w:rsidR="003458D6" w:rsidSect="00C5554D">
             <w:pgSz w:w="11900" w:h="16840"/>
             <w:pgMar w:top="1985" w:right="1701" w:bottom="1701" w:left="1701" w:header="851" w:footer="992"
                      w:gutter="0"/>
