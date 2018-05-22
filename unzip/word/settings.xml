@@ -10,6 +10,7 @@
     <w:zoom w:percent="100"/>
     <w:bordersDoNotSurroundHeader/>
     <w:bordersDoNotSurroundFooter/>
+    <w:proofState w:spelling="clean" w:grammar="clean"/>
     <w:defaultTabStop w:val="960"/>
     <w:drawingGridVerticalSpacing w:val="200"/>
     <w:displayHorizontalDrawingGridEvery w:val="0"/>
@@ -32,6 +33,7 @@
     </w:compat>
     <w:rsids>
         <w:rsidRoot w:val="00BC0B45"/>
+        <w:rsid w:val="00090921"/>
         <w:rsid w:val="00BC0B45"/>
         <w:rsid w:val="00C5554D"/>
     </w:rsids>
@@ -54,7 +56,7 @@
                         w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
     <w:doNotAutoCompressPictures/>
     <w:shapeDefaults>
-        <o:shapedefaults v:ext="edit" spidmax="1026">
+        <o:shapedefaults v:ext="edit" spidmax="1027">
             <v:textbox inset="5.85pt,.7pt,5.85pt,.7pt"/>
         </o:shapedefaults>
         <o:shapelayout v:ext="edit">
@@ -63,6 +65,6 @@
     </w:shapeDefaults>
     <w:decimalSymbol w:val="."/>
     <w:listSeparator w:val=","/>
-    <w14:docId w14:val="40EF6B1B"/>
+    <w14:docId w14:val="71F69B11"/>
     <w14:defaultImageDpi w14:val="300"/>
 </w:settings>

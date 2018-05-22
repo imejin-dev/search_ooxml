@@ -24,7 +24,7 @@
         <w:charset w:val="00"/>
         <w:family w:val="auto"/>
         <w:pitch w:val="variable"/>
-        <w:sig w:usb0="00000003" w:usb1="00000000" w:usb2="00000000" w:usb3="00000000" w:csb0="00000001"
+        <w:sig w:usb0="E0002AFF" w:usb1="C0007841" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
                w:csb1="00000000"/>
     </w:font>
     <w:font w:name="Arial">
@@ -32,7 +32,7 @@
         <w:charset w:val="00"/>
         <w:family w:val="auto"/>
         <w:pitch w:val="variable"/>
-        <w:sig w:usb0="00000003" w:usb1="00000000" w:usb2="00000000" w:usb3="00000000" w:csb0="00000001"
+        <w:sig w:usb0="E0002AFF" w:usb1="C0007843" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
                w:csb1="00000000"/>
     </w:font>
     <w:font w:name="ＭＳ ゴシック">
@@ -40,7 +40,7 @@
         <w:charset w:val="4E"/>
         <w:family w:val="auto"/>
         <w:pitch w:val="variable"/>
-        <w:sig w:usb0="00000001" w:usb1="08070000" w:usb2="00000010" w:usb3="00000000" w:csb0="00020000"
+        <w:sig w:usb0="E00002FF" w:usb1="6AC7FDFB" w:usb2="00000012" w:usb3="00000000" w:csb0="0002009F"
                w:csb1="00000000"/>
     </w:font>
 </w:fonts>
