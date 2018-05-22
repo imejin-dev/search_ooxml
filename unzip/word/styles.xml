@@ -194,4 +194,35 @@
         <w:semiHidden/>
         <w:unhideWhenUsed/>
     </w:style>
+    <w:style w:type="paragraph" w:styleId="a3">
+        <w:name w:val="Title"/>
+        <w:basedOn w:val="a"/>
+        <w:next w:val="a"/>
+        <w:link w:val="a4"/>
+        <w:uiPriority w:val="10"/>
+        <w:qFormat/>
+        <w:rsid w:val="00666600"/>
+        <w:pPr>
+            <w:spacing w:before="240" w:after="120"/>
+            <w:jc w:val="center"/>
+            <w:outlineLvl w:val="0"/>
+        </w:pPr>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsia="ＭＳ ゴシック" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+            <w:sz w:val="32"/>
+            <w:szCs w:val="32"/>
+        </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:customStyle="1" w:styleId="a4">
+        <w:name w:val="表題 (文字)"/>
+        <w:basedOn w:val="a0"/>
+        <w:link w:val="a3"/>
+        <w:uiPriority w:val="10"/>
+        <w:rsid w:val="00666600"/>
+        <w:rPr>
+            <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsia="ＭＳ ゴシック" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+            <w:sz w:val="32"/>
+            <w:szCs w:val="32"/>
+        </w:rPr>
+    </w:style>
 </w:styles>
